@@ -2,7 +2,7 @@
 
 A PowerShell script to monitor BitLocker encryption/decryption progress in real-time, showing updates only when the progress percentage changes.
 
-![BDE-Monitor Demo]([https://raw.githubusercontent.com/joordih/bde-monitor/main/bde-monitor-preview.png](https://raw.githubusercontent.com/joordih/bde-monitor/refs/heads/main/bde-monitor-preview.png))
+![BDE-Monitor Demo](https://raw.githubusercontent.com/joordih/bde-monitor/refs/heads/main/bde-monitor-preview.png)
 
 ## Description
 
